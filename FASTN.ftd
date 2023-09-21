@@ -1,6 +1,6 @@
 -- import: fastn
 
--- fastn.package: ANJANAROS .github.io/fastnfoliotemp
+-- fastn.package: ANJANAROS.github.io/fastnfoliotemp
 favicon: /-/ANJANAROS.github.io/fastnfoliotemp/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
@@ -12,7 +12,7 @@ favicon: /-/ANJANAROS.github.io/fastnfoliotemp/favicon.ico
 
 
 
--- fastn.auto-import: ANJANAROS .github.io/fastnfoliotemp/FASTN/ds
--- fastn.auto-import: ANJANAROS .github.io/fastnfoliotemp/assets
+-- fastn.auto-import: ANJANAROS.github.io/fastnfoliotemp/FASTN/ds
+-- fastn.auto-import: ANJANAROS.github.io/fastnfoliotemp/assets
 -- fastn.auto-import: doc-site
 
